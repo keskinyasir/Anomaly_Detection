@@ -1,6 +1,6 @@
 # Anomaly_Detection
 
-This project is about Anomaly Detection with S&P500 data.
+This project is about Anomaly Detection with S&P500 time series data.
 
  - Build an LSTM(Long Short - Term Memory) Autoencoder.
  - Detect anomalies with LSTM Autoencoder with time series data(S&P500)
